@@ -2,9 +2,9 @@
 import numpy as np
 import math
 
-p_syouga = np.array([2,5,1])
-p_myouga = np.array([-1,2,3])
-px = np.array([1,1,1])
+p_syouga = np.array([2,5])
+p_myouga = np.array([-1,2])
+px = np.array([1,1])
 
 def distance(a, b):
     return sum((a-b)**2)
