@@ -1,4 +1,6 @@
 # coding: UTF-8
+# 演習問題⑤の解答例
+# # 1次元のパーセプトロンの学習規則の実装例
 import numpy as np
 import matplotlib.pyplot as plt
 
